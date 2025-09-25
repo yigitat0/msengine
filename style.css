@@ -118,4 +118,13 @@ img
 
 .visible{
     opacity: 1;
+
+}
+
+footer {
+  text-align: center;
+  padding: 1.5rem 0;
+  margin-top: 3rem;
+  color: #777;
+  border-top: 1px solid #333;
 }
